@@ -1,0 +1,393 @@
+doc51	1	The transition to parenthood is one of the most stressful intra- and interpersonal adjustment periods for new parents. 
+doc51	2	Bidirectional associations among intergenerational relationships during the transition to parenthood have received limited attention, and the complexity of reciprocal relationships varies in accordance with living arrangements. 
+doc51	3	The objectives of this study were to explore (1) the bidirectional associations between marital relationships and conflicts with in-laws during the transition to parenthood and (2) the moderation of patrilineal coresidence on the aforementioned relationships. 
+doc51	4	A three-wave prospective longitudinal design was adopted for 359 married mothers. 
+doc51	5	The Dyadic Adjustment Scale and Stryker Adjustment Checklist were used to assess marital relationships and conflicts with parents-in-law. 
+doc51	6	Cross-lagged panel analysis was applied to examine reciprocal relationships, and multigroup analyses were employed to determine whether these relationships exhibited different patterns in accordance with the individuals' living arrangements. 
+doc51	7	The two cross-lagged models revealed the presence of a bidirectional relationship between marital distress and conflicts with parents-in-law during the mid- to late pregnancy stages. 
+doc51	8	Meanwhile, the multigroup analyses suggested that conflicts with parents-in-law triggered marital distress during pregnancy in the coresidence group, whereas conflicts with fathers-in-law could intensify marital distress during late pregnancy to the postpartum period in the noncoresidence group. 
+doc51	9	These findings shed light on cross-lagged associations with intergenerational conflicts. 
+doc51	10	Healthcare professionals need to ensure that intergenerational relationships are positive during the transition to parenthood. 
+doc51	11	This study enriches our understanding of the effect of patrilineal coresidence and can guide the future development of interventions based on culturally specific multidimensional approaches.
+doc52	1	Linear regression models are widely used in mental health and related health services research. 
+doc52	2	However, the classic linear regression analysis assumes that the data are normally distributed, an assumption that is not met by the data obtained in many studies. 
+doc52	3	One method of dealing with this problem is to use semi-parametric models, which do not require that the data be normally distributed. 
+doc52	4	But semi-parametric models are quite sensitive to outlying observations, so the generated estimates are unreliable when study data includes outliers. 
+doc52	5	In this situation, some researchers trim the extreme values prior to conducting the analysis, but the ad-hoc rules used for data trimming are based on subjective criteria so different methods of adjustment can yield different results. 
+doc52	6	Rank regression provides a more objective approach to dealing with non-normal data that includes outliers. 
+doc52	7	This paper uses simulated and real data to illustrate this useful regression approach for dealing with outliers and compares it to the results generated using classical regression models and semi-parametric regression models. 
+doc53	1	Results are mixed for relationship education (RE) interventions with low-income couples. 
+doc53	2	For couples who experienced positive changes, it is not clear what aspects of program models contributed to change. 
+doc53	3	Many low-income couples attend government-funded RE with limited access to social and community resources. 
+doc53	4	Program models often provide related resources complimentary to RE skill-building. 
+doc53	5	We examined the relationship between income, social support, and family functioning for low-income, ethnically diverse couples (N = 856) who attended RE, as well as the mediating effects of social support on family functioning outcomes. 
+doc53	6	Analyses included three separate dyadic models that examined associations among constructs at baseline and immediately following the RE intervention. 
+doc53	7	Results demonstrated relationships between participants' reported social support and family functioning such that (a) social support was associated with baseline family functioning for both men and women; (b) men's baseline social support was influenced by women's baseline family functioning; and (c) men's and women's social support change score had a positive influence on their own family functioning change score. 
+doc53	8	However, social support was not a significant mediator of change in family functioning. 
+doc53	9	Implications for RE practice and research are also discussed.
+doc54	1	The organization of risk genes within signaling pathways may provide clues about the converging neurobiological effects of risk genes for alcohol dependence. 
+doc54	2	Identify risk genes and risk gene pathways for alcohol dependence. 
+doc54	3	We conducted a pathway-based genome-wide association study (GWAS) of alcohol dependence using a gene-set-rich analytic approach. 
+doc54	4	Approximately one million genetic markers were tested in the discovery sample which included 1409 European-American (EA) alcohol dependent individuals and 1518 EA healthy comparison subjects. 
+doc54	5	An additional 681 African-American (AA) cases and 508 AA healthy subjects served as the replication sample. 
+doc54	6	We identified several genome-wide replicable risk genes and risk pathways that were significantly associated with alcohol dependence. 
+doc54	7	After applying the Bonferroni correction for multiple testing, the 'cellextracellular matrix interactions' pathway (p<2.0E-4 in EAs) and the PXN gene (which encodes paxillin) (p=3.9E-7 in EAs) within this pathway were the most promising risk factors for alcohol dependence. 
+doc54	8	There were also two nominally replicable pathways enriched in alcohol dependence-related genes in both EAs (0.015≤p≤0.035) and AAs (0.025≤p≤0.050): the 'Na+/Cl- dependent neurotransmitter transporters' pathway and the 'other glycan degradation' pathway. 
+doc54	9	These findings provide new evidence highlighting several genes and biological signaling processes that may be related to the risk for alcohol dependence.
+doc55	1	To summarize and analyze the clinical characteristics, treatment and prognosis of acute lung injury in patients with diffuse large B-cell lymphoma (DLBCL) after chemotherapy with rituximab chemotherapy, so as to improve the understanding of the disease and guide the clinical treatment. 
+doc55	2	Twenty-Six patients with DLBCL were treated with rituximab chemotherapy and developed to acute lung injury in Third Hospital of Peking University from January 2013 to September 2018 were selected. 
+doc55	3	The clinical features, imaging findings, chemotherapy course, therapeutic effect and prognosis were analyzed. 
+doc55	4	The main clinical symptoms of patients were fever, cough and chest tightness, among which 12 patients showed hypoxia and 3 patients showed respiratory failure type I. 
+doc55	5	The mainly manifested chest CT was diffusive glass grinding in both lungs, and some patients were complicated with a small amount of pleural effusion. 
+doc55	6	The onset chemotherapy time was mainly distributed in 2 to 4 courses, the time between the onset of symptoms and the infusion of rituximab was 8 to 49 days. 
+doc55	7	25 patients shows no obvious limitation in daily life after effective treatment, and 1 patient died of ineffective treatment. 
+doc55	8	There are no typical clinical symptoms in the early stage of acute lung injury after rituximab chemotherapy in DLBCL. 
+doc55	9	Early detection and early hormone therapy are very important to achieve good therapeutic effect.
+doc56	1	To explore the non-genetic factors of overall survival in patients with multiple myeloma (MM). 
+doc56	2	Kaplan-Meier survival curve, Log-rank test and Cox regression model were used to carry out univariate and multivariate retrospective analysis on clinical and laboratory parameters of 51 patients who were newly diagnosed with MM and had complete follow-up data in the Department of Hematology, the Affiliated Jiangning Hospital of Nanjing Medical University from November 2011 to October 2019. 
+doc56	3	Fifty-one patients included 29 males and 22 females. 
+doc56	4	Followed up to December 2019, 21 cases died and 30 cases survived. 
+doc56	5	The univariate analysis showed that the overall survival time of the patients was influenced by age, disease stage, standard treatment, new drugs, maintenance treatment, hypercalcemia, globulin, albumin, and hemoglobin. 
+doc56	6	The overall survival time of patients with age <65 years old, ISS stage I and II, standardized treatment, new drugs, normal or below normal blood calcium, normal or below normal globulin, albumin ≥35 g/L or hemoglobin ≥100 g/L was prolonged significantly (P<0.05). 
+doc56	7	The multivariate analysis showed that maintenance treatment, hypercalcemia (≥2.6 mmol/L), and hemoglobin (<100 g/L) were independent risk factors influencing the prognosis of MM patients. 
+doc56	8	Patients with blood calcium ≥2.6 mmol/L, hemoglobin <100 g/L, and who do not undergo regular maintenance therapy show a poor prognosis.
+doc57	1	Chemical eye injury (CEI) is an acute emergency which can threaten sight and life. 
+doc57	2	These commonly occur at home or the workplace with the former being generally mild and the latter more severe and bilateral. 
+doc57	3	Major workplace accidents involve other parts of the body and can be associated with inhalation or ingestion of the chemical. 
+doc57	4	Alkali injuries cause damage by saponification of tissue and deeper penetration as a consequence. 
+doc57	5	Acid injuries cause rapid coagulation of tissue, which impedes penetration and limits damage. 
+doc57	6	Irritants such as alcohols, cause superficial epithelial denudation. 
+doc57	7	Severe chemical insult can affect all anterior segment structures causing iris, pupil and lens abnormalities. 
+doc57	8	Eye pressure is variably affected and can be low or high or start as one and rapidly change to the other. 
+doc57	9	Chorioretinal changes in the form of vasculopathy are seen and ascribed to be secondary to anterior segment inflammation rather than due to the direct effect of CEI. 
+doc57	10	Final outcome related to structure and function is determined by the injurious agent, duration of exposure, nature of treatment and the rapidity with which it is instituted. 
+doc57	11	Prevention of further damage by profuse and prolonged eye wash, after ascertaining pH of both eyes, together with exploration and removal of all particulate matter, is the key. 
+doc57	12	Other management principles include a complete and thorough assessment, control of inflammation, facilitation of healing and prevention and management of sequelae and complications. 
+doc57	13	Intraocular pressure is often forgotten and must be assessed and managed. 
+doc57	14	Management often requires a multidisciplinary approach.
+doc58	1	Pyroptosis is a programmed death mode dependent on Caspase-1/4/5/11, which is caused by activation of inflammasome, accompanied by cell membrane rupture, pore formation and cell content release. 
+doc58	2	As a new type of cell death, it is widely involved in respiratory diseases, such as pulmonary fibrosis, acute lung injury, bronchopulmonary dysplasia, chronic obstructive pulmonary disease and asthma. 
+doc58	3	This article reviews the mechanism of pyroptosis and its role in different respiratory diseases, in order to provide new ideas for the treatment of respiratory diseases.
+doc59	1	To explore and analyze the risk factors of herpes zoster in patients with multiple myeloma (MM) during the chemotherapy with bortezomib. 
+doc59	2	Clinical data of 85 MM patients treated with bontizomib from January 2015 to January 2019 were selected and divided into case group and control group accroding to the occurred of herpes zoster. 
+doc59	3	The clinical characteristic, treatment outcome and related factor of herpes zoster were retrospective analyzed. 
+doc59	4	Twenty of the 85 patients with MM treated with bortezomib developed herpes zoster occurred (23.5%). 
+doc59	5	Single-factor analysis showed that age≥65 years, lymphocytopenia occurred before treatment, neutropenia occurred before treatment, ECOG score≥2, application of cyclophosphamide, absence of preventive antiviral therapy were associated with the genesis of herpes zoster (P＜0.05). 
+doc59	6	Multivariate logistic regression analysis showed that lymphocytopenia occurred before treatment, the application of cyclophosphamide and the absence of preventive antiviral therapy were the independent risk factors for herpes zoster (P＜0.05). 
+doc59	7	The incidence of herpes zoster is high in the multiple myeloma patients treated with bortezomib. 
+doc59	8	Lymphocytopenia occurred before treatment, the application of cyclophosphamide, and the absence of prophylactic antiviral therapy are the important risk factors for herpes zoster, for which the clinicians should attach great importance.
+doc60	1	To observe the clinical and laboratory characteristics of adult Langerhans cell histiocytosis(LCH) patients and to analyze the influencing factors of its prognosis. 
+doc60	2	The clinical and laboratory charac-teristics of 38 adult LCH patients treated in our hospital from January 2010 to August 2019 were retrospective analyzed, and the clinical prognosis of the patients was analyzed. 
+doc60	3	The median age of 38 patients was 41 (21-65) years old, and the ratio of male and female was about 2∶1. 
+doc60	4	Among 38 patients, 44.7% (17/38) were involved in multiple systems, and 31.6% (12/38) were involved in high-risk organs (including liver, lung, hematopoietic system or spleen). 
+doc60	5	The bone involvement was the most common (21/38, 55.3%), and the most common clinical symptom was pain (19/38, 50.0%). 
+doc60	6	The result of laboratory showed that anemia (4/38，10.5%), thrombocytopenia (1/38，2.6%), neutropenia (2/38，5.3%), lymphopenia (6/38，15.8%), monocytosis (11/38，28.9%), C-reactive protein increasing (6/21，28.6%), erythrocyte sedimentation rate increasing (10/18, 55.3%), and ferritin protein increasing (9/17, 55.3%). 
+doc60	7	The median follow-up time was 53 months, and a total of 5 patients were died. 
+doc60	8	The 10-year overall survival rate of patients with single-system involvement was 100%, which was significantly higher than that of patients with multiple-system involvement (70.1%) (P=0.0078). 
+doc60	9	The prognosis of patients without risk-organ involvement was better than that of patients with risk-organ involvement (10-year overall survival rate: 100% vs 60.6%) (P=0.0007). 
+doc60	10	Further analysis showed that in addition to multiple-system involvement and risk-organ involvement, the increase of peripheral blood monocyte cells and the increase of ferritin protein were also associated with poorer prognosis of the patients. 
+doc60	11	The multiple system involve-ment and risk-organ involvement, the increasing of monocyte cells and the increasing of ferritin protein were the independent risk factors of adult LCH patients.
+doc61	1	The degree of approval for a relationship from one's social network has been shown to predict relationship outcomes. 
+doc61	2	Additional research has shown that attachment can buffer the negative effects of various factors (e.g., depression) on relationships. 
+doc61	3	Using an actor-partner interdependence model in an SEM framework, we research the effects of disapproval from parents and friends for one's relationship on marital relationship quality for self and partner in a sample of 858 married couples. 
+doc61	4	We also examine whether each spouse's attachment behaviors can moderate these effects. 
+doc61	5	Results indicated that one's own attachment behaviors moderate the effects of their own parents' and friends' disapproval on their self-reported relationship quality for both men and women. 
+doc61	6	Partner's attachment behaviors moderate own friend's disapproval on self-reported relationship quality for men and women; additionally, the main effect of partner's friends' and parents' disapproval became nonsignificant with that test. 
+doc61	7	The findings provide evidence that attachment behaviors of both partners play a role in buffering the negative effects of the social network disapproval on relationship outcomes. 
+doc61	8	Clinical implications are discussed.
+doc62	1	Clinical practice guidelines, such as those focusing on traumatic stress treatment, can play an important role in promoting inclusion and equity. 
+doc62	2	Based on a review of 14 international trauma treatment guidance documents that explicitly mentioned children, we reflect on two areas in which these guidelines can become more inclusive and equitable; a) representation of children's cultural background and b) children's opportunity to have their voice heard. 
+doc62	3	While a few guidelines mentioned that treatment should be tailored to children's cultural needs, there was little guidance on how this could be done. 
+doc62	4	Moreover, there still appears to be a strong white Western lens across all stages of producing and evaluating the international evidence base. 
+doc62	5	The available documentation also suggested that no young people under the age of 18 had been consulted in the guideline development processes. 
+doc62	6	To contribute to inclusion and equity, we suggest five elements for future national guideline development endeavours. 
+doc62	7	Promoting research and guideline development with, by, and for currently under-represented communities should be a high priority for our field. 
+doc62	8	Our national, regional and global professional associations are in an excellent position to (continue to) stimulate conversation and action in this domain.
+doc63	1	To review the perioperative blood management (PBM) of total knee arthroplasty (TKA) and total hip arthroplasty (THA). 
+doc63	2	Recent researches on PBM for TKA and THA were comprehensively read and summarized. 
+doc63	3	Then the advantages and disadvantages of various measures together with the clinical experience of West China Hospital of Sichuan University were evaluated from three aspects, including optimizing hematopoiesis, reducing blood loss and blood transfusion, which could provide a basis for clinical selection. 
+doc63	4	There are many PBM methods in TKA and THA, among which the optimization of hematopoiesis mainly includes the application of perioperative iron and erythropoietin. 
+doc63	5	Measures to reduce bleeding include the use of tourniquet, intraoperative controlled hypotension, and perioperative antifibrinolytic agents. 
+doc63	6	Autologous blood transfusion includes preoperative autologous blood donation, hemodilution and cell salvage. 
+doc63	7	Allogeneic blood transfusion is the ultimate treatment for anemia. 
+doc63	8	The application of erythropoietin combined with iron therapy for blood mobilization before surgery together with intraoperative controlled hypotension for bleeding control and the multiple use of tranexamic acid can achieve satisfactory clinical results. 
+doc63	9	In the perioperative period of TKA and THA, single or multiple use of different blood management measures should be considered carefully according to the physical and economic conditions of patients individually, so as to reduce the blood loss and allogeneic blood transfusion optimally, and finally accelerate the recovery of patients.
+doc64	1	To investigate the effectiveness of Vesselplasty and percutaneous kyphoplasty (PKP) in treatment of Kümmell disease. 
+doc64	2	Between January 2015 and December 2018, 63 patients with Kümmell disease were treated. 
+doc64	3	Among them, 28 cases were treated with Vesselplasty (Vesselplasty group) and 35 cases were treated with PKP (PKP group). 
+doc64	4	There was no significant difference in gender, age, disease duration, bone mineral density (T value), fracture distribution, and preoperative pain visual analogue scale (VAS) score, Oswestry Disability Index (ODI), anterior height of injured vertebrae, and kyphosis Cobb angle between the two groups (  All patients of the two groups were followed up 12-36 months, with an average of 24.2 months. The operation time, intraoperative fluoroscopy time, bone cement injection volume, and diffusion area ratio of bone cement were significantly lower in the Vesselplasty group than in the PKP group (  Vesselplasty and PKP have similar effectiveness in the treatment of Kümmell disease. They can effectively relieve the pain symptoms, improve the quality of life, partially restore the height of injured vertebrae, and correct kyphosis. But the Vesselplasty has the advantages of shorter operation time, less intraoperative fluoroscopy time, and less bone cement leakage.
+doc65	1	The present systematic review examined post-migration variables impacting upon mental health outcomes among asylum-seeking and refugee populations in Europe. 
+doc65	2	It focuses on the effects of post-settlement stressors (including length of asylum process and duration of stay, residency status and social integration) and their impact upon post-traumatic stress disorder, anxiety and depression. 
+doc65	3	Twenty-two studies were reviewed in this study. 
+doc65	4	Length of asylum process and duration of stay was found to be the most frequently cited factor for mental health difficulties in 9 out of 22 studies. 
+doc65	5	Contrary to expectation, residency or legal status was posited as a marker for other explanatory variables, including loneliness, discrimination and communication or language problems, rather than being an explanatory variable itself. 
+doc65	6	However, in line with previous findings and as hypothesised in this review, there were statistically significant correlations found between family life, family separation and mental health outcomes.
+doc66	1	The discovery of hepatitis B virus (HBV) has provided a scientific basis for the diagnosis, prevention and treatment of chronic hepatitis B (CHB). 
+doc66	2	The universalization of neonatal hepatitis B vaccine has greatly reduced the HBsAg positive load rate of the Chinese population. 
+doc66	3	Antiviral therapy based on interferon and / or nucleos(t)ide analogues had effectively inhibited HBV replication, improved liver inflammation, liver fibrosis, and reduced the incidence of liver cirrhosis and hepatocellular carcinoma. 
+doc66	4	However, the existing treatment methods can achieve the clinical cure goal of negative HBsAg. 
+doc66	5	In recent years, direct antiviral drugs for HBV life cycle and immunomodulatory drugs for antiviral response have entered an active stage of research and development. 
+doc66	6	Clinical trials that are well-designed, standardized, analyzed, and interpreted are the key to the success of the research and development of a clinical cure for hepatitis B. 
+doc66	7	It is hoped that the experts in hepatology, clinical pharmacology and methodology will work together to promote the research and development process of new drugs for clinical cure of hepatitis B by adopting new clinical trial design, new endpoint indicators, new data management and quality control technology.
+doc67	1	To compare the effectiveness of transosseous tunnel fixation and drilling fixation for repair of lateral collateral ligament complex (LCLC) in treatment of terrible triad of elbow (TTE). 
+doc67	2	A clinical data of 50 patients with TTE between June 2012 and January 2018 were retrospectively analyzed. 
+doc67	3	The LCLC was repaired with transosseous tunnel fixation in 22 patients (transosseous tunnel fixation group) and with drilling fixation in 28 patients (drilling fixation group). 
+doc67	4	There was no significant difference between the two groups (  The operation of two groups were successfully completed. There was no significant difference in the operation time and intraoperative blood loss between the two group (  Both transosseous tunnel fixation and drilling fixation can achieve good results in repair of LCLC for TTE.
+doc68	1	To analyze the efficacy of rituximab combined with CHOP/EPOCH regimen for treatment of diffuse large B-cell lymphoma（DLBCL） patients, and to explore the high risk factors of refractory and relapsed patients. 
+doc68	2	The clinical data of 72 patients with de novo DLBCL from December 2012 to December 2018 in the Department of Hematology, Zhongda Hospital Affiliated to Southeast University were retrospectively analyzed. 
+doc68	3	The remission rate of DLBCL patients treated by rituximab combined with CHOP/EPOCH was analyzed, and survival analysis was conducted to explore the risk factors influencing refractory recurrence. 
+doc68	4	45 cases among 72 patients achieved complete remission (CR), 11 cases achieved partial remission (PR), the total remission rate was 77.78%. 
+doc68	5	25 cases (34.2%) refractory and relapsed. 
+doc68	6	Single factor analysis showed that the B symptoms, low Hb, high NLR, low MLR, high β The remission rate of DLBCL patients treated by rituximab combined with CHOP/EPOCH regimen is high, but about one third of the patients still show refractory and relapsed. 
+doc68	7	B Symptoms, anemia, high β
+doc69	1	To review the surgical methods of arthroscopy in the treatment of acetabular labrum injury, and to provide reference for clinical treatment. 
+doc69	2	The literature about the surgical methods and clinical results of hip arthroscopy in the treatment of acetabular labrum injury was reviewed and analyzed. 
+doc69	3	In the early stages of hip arthroscopy, the removal of the torn labrum is the primary treatment option. 
+doc69	4	The current principles of treatment are based on the specific circumstances of a torn labrum, including acetabular labrum debridement, acetabular labrum repair, acetabular labrum reconstruction, and acetabular labrum augmentation. 
+doc69	5	Hip arthroscopy has become the preferred technique for the treatment of acetabular labrum injury. 
+doc69	6	Labral repair is still the first choice, and labral reconstruction is used when acetabular labrum injury cannot be repaired.
+doc70	1	A systemic approach to researching families and health should capture the complex network within which family members are embedded, including multiple family relationships and larger systems of health care. 
+doc70	2	However, much of the families and health research focused on adult family members has focused solely on intimate partnerships, usually the marital relationship. 
+doc70	3	This neglects the remainder of the powerfully influencing family relationships adults retain, and may increasingly focus on as they age. 
+doc70	4	We conducted a systematic review of the families and adult health literature, retaining 72 articles which were subsequently thematically coded to highlight main foci of this area of research. 
+doc70	5	Results highlight six themes, which include family relationship quality, family composition, behavioral factors in health and health care, psychophysiological mediators, caregiving, and aging health. 
+doc70	6	Findings support an underrepresentation of family members, other than the intimate partner, in research on adult health.
+doc71	1	Long-term intake of large amounts of ethanol leads to enterogenous endotoxemia. 
+doc71	2	Reactive oxygen species, high concentrations of adenosine triphosphate and uric acid activate the pyroptosis system, which then cleaves the pore formation mechanism of gasdermin-D, leading to the death of liver cells, accompanied by the release of interleukin-1β, interleukin-18, and other inflammatory factors. 
+doc71	3	This series of processes activates the immune system, mediates a cascade of inflammation, and promotes the development of alcoholic liver disease from steatosis to inflammation and fibrosis.
+doc72	1	Family-level conflict and cohesion are well-established predictors of adolescent mental health. 
+doc72	2	However, traditional approaches focusing on between-family differences in cohesion and conflict may overlook daily intrafamily variability that might provide important new information. 
+doc72	3	We used data from a 21-day daily diary protocol in a sample of 151 caregivers (95.3% female) and their adolescent child (61.5% female) in two-caregiver families to test whether daily changes in family functioning are associated with daily changes in adolescent well-being and whether adolescent well-being depends on average levels of family functioning. 
+doc72	4	We examined family cohesion and conflict in relation to adolescent angry, depressed, and anxious mood, as well as happiness, life satisfaction, and meaning and purpose in life in multilevel models. 
+doc72	5	Both cohesion and conflict exhibited meaningful daily variation. 
+doc72	6	Adolescent-reported cohesion and conflict had unique within-family associations with all six adolescent outcomes. 
+doc72	7	Models using parent reports of family functioning yielded fewer associations than models with adolescent reports; however, several findings remained. 
+doc72	8	Cross-level interactions indicated that within-family variations in cohesion were only associated with adolescent depression in families with lower average levels of cohesion across days. 
+doc72	9	In sum, this study provides compelling evidence that families exhibit meaningful variability from day to day and that daily variation has important implications for adolescent well-being.
+doc73	1	To investigate the clinical efficacy of ALL-2005 and ALL-2009 regimen and factors influencing prognosis of newly diagnosed ALL patients aged between 10-18 years old to provide some reference for clinical diagnosis and treatment. 
+doc73	2	The clinical data including baseline clinical characteristics, induction chemotherapy effect, long-term clinical efficacy, recurrence rate and mortality of induction therapy of 119 newly diagnosed ALL patients aged between 10-18 years old from January 2008 to December 2015 were analyzed retrospectively, and the influencing factors of clinical prognosis were evaluated by univariate and multivariate analysis. 
+doc73	3	The complete remission rate at the 5th week after induction therapy was not significantly different between ALL-2005 and ALL-2009 regimen groups (P＞0.05). 
+doc73	4	The cumulative event-free survival rate and overall survival rate of 119 cases after 5-year follow-up were (63.41±3.65)% and (68.95±4.01)% respectively, and after 7-year follow-up were (61.86±3.72)% and (67.22±3.59)% respectively. 
+doc73	5	The cumulative event-free survival rate and overall survival rate were not significantly different between ALL-2005 and ALL-2009 regimen groups (P＞0.05). 
+doc73	6	The total recurrence rate, extramedullary recurrence rate, recurrence time and survival rate were not significantly different between ALL-2005 and ALL-2009 regimen groups (P＞0.05). 
+doc73	7	The survival rate of extramedullary recurrence group was significantly higher than bone marrow recurrence group (P＜0.05). 
+doc73	8	The survival rate in late term recurrence group was significantly higher than in early term recurrence group (P＜0.05). 
+doc73	9	The mortality of ALL-2005 regimens was not significantly different from that of ALL-2009 regimen group (P＞0.05). 
+doc73	10	Univariate analysis showed that age, sex, induction therapy, risk and fusion gene all were the factors influencing clinical prognosis (P＜0.05). 
+doc73	11	Multivariate analysis by Cox regression model showed that male, non-remission after induction therapy and high risk were the independent risk factors for poor prognosis in patients (P＜0.05). 
+doc73	12	The survival rate of patients with BCR-ABL The survival rate of newly diagnosed ALL patients aged between 10-18 years old treated with ALL-2009 regimen was slightly higher than that of ALL-2005 regimen, it is more suitable for the ALL patients with BCR-ABL
+doc74	1	This study examined the hypothesis that parent socialization of coping (SOC) would have a longitudinal relation with child emotion regulation abilities. 
+doc74	2	Participants included a sample of 256 parents of 5- to 12-year-old children (child M age = 8.36, SD = 2.03, 54.7% male; parent M age = 34.49, SD = 6.20, 59% female). 
+doc74	3	Data on demographic information, parenting behaviors, and child emotion regulation abilities were collected via online questionnaires at baseline and 12 months. 
+doc74	4	Results from longitudinal structural equation modeling (SEM) analyses suggested that parent SOC, measured at baseline, predicted child adaptive and maladaptive emotion regulation, measured 12 months later. 
+doc74	5	More specifically, parental engagement coping suggestions predicted child's adaptive emotion regulation, whereas parental disengagement coping suggestions predicted child's maladaptive emotion regulation. 
+doc74	6	Further, child gender emerged as a moderator in the longitudinal association between socialization of engagement coping and child adaptive emotion regulation: Whereas this association was small and marginally significant for girls, it was large and statistically significant for boys. 
+doc74	7	Results highlight the importance of parent SOC as potentially contributing to emotion regulation abilities of 5- to 12-year-olds.
+doc75	1	Multiple endocrine neoplasia-IIb (MEN-IIb) is a rare hereditary autosomal dominant syndrome caused by mutations in the RET proto-oncogene. 
+doc75	2	It's characterized by medullary thyroid carcinoma (MTC), pheochromocytoma (PHEO), mucosal neuromas, and Marfanoid habitus. 
+doc75	3	Because of the rarity of MEN-IIb and finiteness of clinical cognition, the majority of the patients suffer a delayed diagnosis. 
+doc75	4	A MEN-IIb patient with the lingual mucosal neuromas since childhood was admitted in the Third Xiangya Hospital of Central South University in November, 2018. 
+doc75	5	He had surgical history of mitral valve prolapse and spinal deformity. 
+doc75	6	He was diagnosed with MTC and PHEO at the age of 22 and 28, respectively, and received surgical treatments. 
+doc75	7	Sequencing of RET gene revealed a de novo heterozygous p.M918T mutation in the patient. 
+doc75	8	Being aware of the unique clinical phenotype and screening of RET gene mutation may lead to the early diagnosis and better long-term outcome for MEN-IIb.
+doc76	1	To analyze the molecular pathogenesis by analysis of phenotype and gene mutation in families with hereditary coagulation factor V (FⅤ) defect caused by complex heterozygous mutation. 
+doc76	2	Plasma pro-thrombin time (PT), activated partial thromboplastin time (APTT), fibrinogen (FIB), FⅤ procoagulant activity (FⅤ∶C), FⅤ antigen (FⅤ∶Ag), and other related coagulation indexes were detected in the proband and his family members (3 generations 10 people). 
+doc76	3	Using DNA direct sequencing to analyze all exons, flanks, 5' and 3' untranslated regions of F5 genes and the corresponding mutation site regions of family members, the mutation site was confirmed by reverse sequencing．The conservation of mutant amino acids was analyzed by ClustalX-2.1-win software. 
+doc76	4	The PROVEAN and MutationTaster online bioinformatics software were used to predict the effect of mutation on protein function. 
+doc76	5	Protein model and amino acid interaction at mutation sites was analyzed by Swiss-pdbviewer software. 
+doc76	6	The PT and APTT of the proband were significantly prolonged compared with healthy controls (34.2 vs 13.2 s and 119.3 vs 36.0 s), while FⅤ∶C and FⅤ∶Ag extremely reduced (3% and 6%). 
+doc76	7	The PT and APTT of the second-born, the third son, daughter, and grandson of the proband were slightly prolonged, and the FⅤ∶C and FⅤ∶Ag decreased to varying degrees. 
+doc76	8	The related coagulant parameters of other family members were within normal range. 
+doc76	9	Genetic analysis revealed that the proband had a c.911G>A heterozygous missense mutation on the exon 6 lead to p.Gly276Glu, and a c.5343C>G heterozygous missense mutation on the exon 16 lead to p.Ser1781Arg of the proband. 
+doc76	10	The second-born, the third son, and grandson of the proband carry p.Gly276Glu heterozygotes, and the daughter carries p.Ser1781Arg heterozygotes, while the other family members were wild-type. 
+doc76	11	The results of conservative analysis indicated that p.Gly276 and p.Ser1781 were highly conserved in homologous species. 
+doc76	12	The two bioinformatics software predicted the same results, PROVEAN (score -6.214 and -12.79) indicated that the compound heterozygous mutation was a harmful mutation; MutationTaster (score 0.976 and 0.999) suggested that these mutations might cause corresponding disease. 
+doc76	13	p.Gly276Glu protein model analysis showed that, the Glu side chain was prolonged and the molecular weight became larger, which would increase the steric hindrance between it and the surrounding amino acids, affect the normal local folding of the FⅤ protein, and eventually lead to the decrease of protein activity and content. 
+doc76	14	This paper can not provide analysis of the spatial structure of p.Ser1781Arg mutant protein because of the lack of X ray 3 D structure file of FⅤ exon 16. 
+doc76	15	The new compound heterozygous mutations (p.Gly276Glu and p.Ser1781Arg) identified in this study are the main reasons for the decrease in the FⅤ level of the family, among which p.Ser1781Arg is rarely reported at home and abroad.
+doc77	1	Coronavirus disease 2019 (COVID-19) is now a major public health problem worldwide. 
+doc77	2	Infectivity of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is extremely strong. 
+doc77	3	The one major target of the virus is the lung, which leads to the deaths of respiratory distress syndrome and multiple organ failure. 
+doc77	4	The kidney is also one of the main organs attacked by viruses, which directly damage the renal tubules through angiotensin converting enzyme-2 and cause cytokine storm, resulting in kidney damage and increasing the risk of death in the patients. 
+doc77	5	Early investigation of risk factors for kidney injury, detection of kidney injury indicators, timely supporting treatment and renal replacement therapy for the existence of kidney injury patients are useful for reducing the mortality rate of COVID-19 patients.
+doc78	1	Objective To obtain the protein expression profile of rat liver tissue after death by the 2100 bioanalyzer combined with protein chip, and infer the relationship between protein expression profile and postmortem interval. 
+doc78	2	Methods Rats were killed by abdominal anesthesia and placed at 16 ℃. 
+doc78	3	Water-soluble proteins in liver tissues were extracted at 14 time points after death. 
+doc78	4	The expression profile data of proteins with relative molecular weight of 14 000-230 000 were obtained using protein chip, and principal component analysis （PCA）, partial least squares-discriminant analysis （PLS-DA） and Fisher discriminant were used to analyze the data. 
+doc78	5	Results According to the changes of protein expression profile, the postmortem interval was divided into group A （0 d）, group B （1-9 d）, group C （12-30 d） according to the result of PLS-DA. 
+doc78	6	The prediction accuracy of the training set and test set of the model were all 100.0%, and the internal cross-validation of the training set was 100.0% according to Fisher discriminant. 
+doc78	7	The Fisher discriminant model at each time point of group B and C was established to narrow the time window of postmortem interval estimation. 
+doc78	8	The prediction accuracy of the training set and test set were all 100.0%, and the internal cross-validation accuracy of the training set was 100.0% in group B. 
+doc78	9	The prediction accuracy of the training set and test set were respectively 95.2% and 78.6% in group C, and the internal cross-validation of the training set was 88.1%. 
+doc78	10	Conclusion Protein chip detection technology can quickly and easily obtain the expression profile of water-soluble proteins of rat liver tissue with a relative molecular weight of 14 000-230 000 at different time points after death. 
+doc78	11	PLS-DA and Fisher discriminant models are established to classify and predict the postmortem interval, in order to provide new ideas and methods for postmortem interval estimation.
+doc79	1	Primary health care offers a cost-effective route to achieving universal health coverage (UHC). 
+doc79	2	However, primary health-care systems are weak in many low- and middle-income countries and often fail to provide comprehensive, people-centred, integrated care. 
+doc79	3	We analysed the primary health-care systems in 20 low- and middle-income countries using a semi-grounded approach. 
+doc79	4	Options for strengthening primary health-care systems were identified by thematic content analysis. 
+doc79	5	We found that: (i) despite the growing burden of noncommunicable disease, many low- and middle-income countries lacked funds for preventive services; (ii) community health workers were often under-resourced, poorly supported and lacked training; (iii) out-of-pocket expenditure exceeded 40% of total health expenditure in half the countries studied, which affected equity; and (iv) health insurance schemes were hampered by the fragmentation of public and private systems, underfunding, corruption and poor engagement of informal workers. 
+doc79	6	In 14 countries, the private sector was largely unregulated. 
+doc79	7	Moreover, community engagement in primary health care was weak in countries where services were largely privatized. 
+doc79	8	In some countries, decentralization led to the fragmentation of primary health care. 
+doc79	9	Performance improved when financial incentives were linked to regulation and quality improvement, and community involvement was strong. 
+doc79	10	Policy-making should be supported by adequate resources for primary health-care implementation and government spending on primary health care should be increased by at least 1% of gross domestic product. 
+doc79	11	Devising equity-enhancing financing schemes and improving the accountability of primary health-care management is also needed. 
+doc79	12	Support from primary health-care systems is critical for progress towards UHC in the decade to 2030.
+doc80	1	Li-Fraumeni Syndrome (LFS) is a hereditary disorder that confers an approximately 90% lifetime risk of cancer and requires comprehensive lifetime cancer screening. 
+doc80	2	We explored healthcare roles for managing LFS-related cancer risks and treatments that were assumed by parents, adolescents, and adult children. 
+doc80	3	Semi-structured interviews were conducted with 23 families. 
+doc80	4	Family groupings were comprised of 2-5 members, with the younger generation in each family ranging in age from 7 to 40 years. 
+doc80	5	Using grounded theory methods, we conducted open and focused coding of interview transcript content. 
+doc80	6	Family members described how the role of health leader was implemented in their family, as well as factors such as maturation of a child or death of a member that determined who assumed particular roles and how these roles shifted over time. 
+doc80	7	They often expressed collective responsibility for helping relatives understand LFS and implement appropriate cancer risk management. 
+doc80	8	Members demonstrated their health role by attending others' medical appointments for support or information gathering. 
+doc80	9	The health leader role was intergenerational and provided the family necessary support in navigating complicated healthcare decisions. 
+doc80	10	Our findings provide insight into healthcare providers regarding how LFS patients and their relatives develop unique medical decision-making and caring roles influenced by the hereditary nature of LFS, and how these roles change over time. 
+doc80	11	Providers who are attuned to family role dynamics may be better able to meet relatives' psychosocial and medical needs by understanding how living with LFS influences the family system's functioning and facilitating members' support for each other.
+doc81	1	Corneal keratopigmentation (KTP) has a long history of use in management of patients suffering from disfiguring corneal opacities. 
+doc81	2	Due to progresses and modifications in KTP surgical techniques and its low rate of complications, it is taken into consideration to be used in selected groups of patients for therapeutic or functional indications. 
+doc81	3	In this paper we present an overview on clinical applications of KTP in both cosmetic and functional aspects and also, we discuss the outcomes of KTP and its characteristics in experimental and histopathological studies.
+doc82	1	To explore the vascular conditions and the necessity of vascular reconstruction in the treatment of chronic ischemic diseases of lower extremities with tibial transverse transport (TTT) from the perspective of vascular surgery. 
+doc82	2	A clinical data of 59 patients with chronic ischemic disease of lower extremities treated by TTT between February 2014 and July 2019 were analyzed retrospectively. 
+doc82	3	Among them, there were 41 patients with diabetic foot (DF), including Wagner grade 3-4, Texas grade 2-3, and stage B-D lesions; the disease duration ranged from 0.7 to 2.4 years, with an average of 1.5 years, and 5 cases complicated with arteriosclerosis obliteran (ASO). 
+doc82	4	There were 14 patients with ASO (Fontaine stage Ⅳ and Rutherford stage Ⅲ-Ⅳ) with an average disease duration of 10.8 months (range, 1.5-23.4 months). 
+doc82	5	There were 4 patients with thromboangiitis obliteran (TAO) with an average disease duration of 12.3 months (range, 2.1-18.2 months), and the clinical stages were all in the third stage. 
+doc82	6	In 18 patients that ankle brachial index (ABI) of anterior or posterior tibial artery was less than 0.6 before operation, or the blood flow of the three branches of inferior anterior tibial artery did not reach the ankle by imaging examination, vascular reconstruction was performed before TTT (5 cases of DF combined with ASO, 12 of ASO, 1 of TAO). 
+doc82	7	After operation, the effectiveness was evaluated by ulcer wound healing, skin temperature, pain visual analogue scale (VAS) score, ABI, and CT angiography (CTA) examination. 
+doc82	8	The patients with DF were followed up 8-16 months (mean, 12.2 months); the ulcer wounds healed with a healing time of 5.1-9.2 weeks (mean, 6.8 weeks); CTA examination showed that the branches of inferior anterior tibial artery were opened in 5 patients after revascularization; and the tibial osteotomy healed for 5-14 weeks (mean, 8.3 weeks). 
+doc82	9	The patients with ASO were followed up 13-25 months (mean, 16.8 months); the ulcer wounds healed with a healing time of 6.2-9.7 weeks (mean, 7.4 weeks). 
+doc82	10	CTA examination showed that the branches of inferior anterior tibial artery were opened in 12 patients after revascularization; all tibial osteotomy healed, and the healing time was 4.5-14.4 weeks (mean, 10.2 weeks). 
+doc82	11	The patients with TAO were followed up 12-23 months with an average of 12.3 months, and toe/limb amputation was performed after ineffective treatment. 
+doc82	12	The patients were divided into two groups according to whether they were combined with revascularization or not. 
+doc82	13	The ABI, VAS score, and skin temperature in the combined revascularization group significantly improved at 6 months after operation (  The ABI of anterior or posterior tibial artery is more than 0.6, radiological examination shows that at least one of the three branches of inferior anterior tibial artery leads to ankle artery, which is a prerequisite for successful TTT in the treatment of chronic ischemic disease of lower extremities. DF is the indication of TTT. ASO can choose TTT, and TAO should use this technique cautiously.
+doc83	1	To analyze the characteristics of volatile organic compounds (VOCs) in expiratory air components of patients with acute promyelocytic leukemia (APL), and assess the feasibility of VOCs for the diagnosis and prognostic evaluation of APL. 
+doc83	2	The VOCs exhaled from the patients with APL and healthy volunteers should be analyzed with SPME-GC/MS, and compared between newly-diagnosed group, relapse group, remission group, and healthy group with Wilcoxon/Kruskal-Wallis one-way analysis of variance and Dunn-Bonferroni test. 
+doc83	3	Dimethyl sulfide, toluene, and dodecane obtained of newly-diagnosed APL patients were significantly higher, while ethanol, n-hexanal, and benzaldehyde were significantly lower than those of healthy people (P<0.05). 
+doc83	4	Compared with the newly-diagnosed group, dimethylsulfide, toluene, and dodecane of the remission group significantly decreased, while ethanol, n-hexanal, and benzaldehyde significantly increased (P<0.05), which was just opposite from the relapse group. 
+doc83	5	Dimethyl sulfide, toluene, dodecane, ethanol, n-hexanal, and benzaldehyde can be used as biomarkers for the diagnosis and prognosis assessment of APL patients.
+doc84	1	The onset, course, and management of mental health problems typically occur over relatively long periods of time, so a substantial proportion of psychiatric research - particularly the research that can provide clear answers about the complex interaction of biological, psychological, and social factors - requires multiple assessments of individuals and the environments in which they live over time. 
+doc84	2	However, many psychiatric researchers use incorrect statistical methods to analyze this type of longitudinal data, a problem that can result in unrecognized bias in analytic results and, thus, incorrect conclusions. 
+doc84	3	This paper provides an introduction to the topic of longitudinal data analysis. 
+doc84	4	It discusses the different dataset structures used in the analysis of longitudinal data, the classification and management of missing data, and methods of adjusting for intra-individual correlation when developing multivariate regression models using longitudinal data. 
+doc85	1	Combined with the material characteristics of acupuncture needle, new connection technology and injection moulding technology, and through mechanical test, a new type of magnetic joint for electroacupuncture instrument, with regular appearance and simple manufacturing process, is developed, which can be connected with acupuncture needle in close range. 
+doc85	2	This joint is composed of the inner magnet joint and the outer joint protective sleeve. 
+doc85	3	The new conductive adhesive is used to simplify the manufacturing process. 
+doc85	4	Its advantages include connection with acupuncture needle by magnetic force, being convenient to store when idle and easy to switch to the working state, and quick disconnection in case of emergency. 
+doc85	5	This joint is connected safely and firmly with acupuncture needle by magnetic force, which shortens the operation time, improves the working efficiency, and effectively solves the problems existing in the crocodile clip connector.
+doc86	1	Compared to higher-income couples, low-income couples experience higher rates of relationship disruption, including divorce and breakup of cohabiting relationships. 
+doc86	2	In recognition of this disparity in relationship outcomes, relationship interventions have increasingly been targeted at this population. 
+doc86	3	However, these interventions have had limited impacts on the relationships of low-income couples. 
+doc86	4	Developing interventions that are effective and responsive to the needs of low-income couples requires descriptive data on the challenges those couples perceive in their own relationships and an assessment of how their needs compare to the more affluent couples typically served by relationship interventions. 
+doc86	5	The current study sampled over 5,000 individuals at the time they were seeking an online relationship intervention and compared the relationship functioning and life circumstances reported by low-income individuals to that of higher-income individuals. 
+doc86	6	Results indicate that low-income individuals seeking a relationship intervention had higher levels of relationship distress (lower relationship satisfaction, more intense primary relationship problems, and less relationship stability), and had greater levels of contextual stress (more children living at home, less likely to be employed full-time, and lower levels of perceived health). 
+doc86	7	Results suggest that future interventions designed to target low-income couples, as well as practitioners working with low-income couples, should be prepared to handle higher levels of relationship distress and contextual stressors than they may typically see in more affluent couples.
+doc87	1	With the development of industry, musculoskeletal disorders have become increasingly prominent, and low back pain is one of the major problems. 
+doc87	2	The United States and Germany have already included it in the category of occupational diseases. 
+doc87	3	Therefore, it is extremely important to determine the occupational factors affecting low back pain and evaluate the load level of workers. 
+doc87	4	In this paper, combined with the existing literature, the evaluation methods of the load of low back pain were reviewed, in order to provide reference for the development of prevention strategies of low back pain from the perspective of occupational factors.
+doc88	1	Adverse childhood experiences (ACEs) and trauma symptoms have been linked with intimate partner violence (IPV) perpetration and victimization among men, yet the field lacks depth in several key areas hampering progress toward violence intervention. 
+doc88	2	Specifically, posttraumatic stress disorder (PTSD) dominates the field's scope of trauma symptoms under study, limiting understanding of other manifestations of trauma especially among men. 
+doc88	3	Furthermore, most research focuses exclusively on men's physical IPV perpetration and rarely focuses on other types of IPV, severity of violence, or men's victimization. 
+doc88	4	Also, few studies examine potential protective factors grounded in the ACE framework, such as mindfulness, among clinical populations. 
+doc88	5	Finally, most research has not focused on men of color, despite some racial/ethnic minority groups disproportionate rates of IPV exposure. 
+doc88	6	Therefore, the relationships between IPV frequency and severity (psychological, physical, injury) and ACEs, PTSD, trauma symptomology (separate from PTSD), and mindfulness self-efficacy were examined in a sample of 67 predominantly low-income men of color in a batterer intervention program. 
+doc88	7	More than half of the sample (51.5%) reported exposure to four or more ACEs, and 31.1% met the clinical cutoff for a probable PTSD diagnosis. 
+doc88	8	Higher ACE scores predicted increased rates for nearly all types of self-reported IPV perpetration and victimization. 
+doc88	9	PTSD symptoms and complex trauma symptom severity together explained between 13% and 40% of IPV outcomes, and each was uniquely associated with certain types of self-reported IPV victimization and perpetration frequency and severity. 
+doc88	10	Mindfulness self-efficacy was associated with decreased self-report psychological IPV perpetration and victimization frequency and severity. 
+doc88	11	Clinical implications relevant to marginalized men are reviewed, including screening, training, and potential therapeutic interventions.
+doc89	1	Family connectedness has important implications for adolescents' well-being, contributing to their physical, psychological, and social health. 
+doc89	2	However, little is known about the mechanisms underlying these effects. 
+doc89	3	The present longitudinal study examined the process by which family connectedness, as perceived by adolescents, predicted greater positive and fewer negative health behaviors in adolescents over time. 
+doc89	4	In particular, we sought to determine whether adaptive and maladaptive coping strategies mediated the link between family connectedness and adolescents' self-reported health status. 
+doc89	5	Data were obtained from 1,774 New Zealand adolescents aged 10-17 years, who completed a self-report survey three times at one-year intervals. 
+doc89	6	With longitudinal mediation path models, we tested whether maladaptive and adaptive coping strategies at T2 functioned as mediators between family connectedness at T1 and overall health, vitality, sleep sufficiency, body satisfaction, substance use, and self-harm at T3. 
+doc89	7	Findings revealed that family connectedness predicted greater levels of adaptive coping, which, in turn, predicted better health indicators but not decreases in ill-health indicators. 
+doc89	8	Furthermore, family connectedness predicted lower maladaptive coping, which, in turn, predicted higher levels of positive health outcomes and fewer negative health outcomes. 
+doc89	9	Results showed that the positive effect of family connectedness on adolescents' health occurred through increased use of adaptive coping strategies, decreased use of maladaptive coping strategies, or both. 
+doc89	10	These results have important implications for practitioners working with adolescents and parents, as well as for health promotion program developers.
+doc90	1	Sub-Saharan Africa is home to 12% of the global population, and 4.3 million are blind and over 15 million are visually impaired. 
+doc90	2	There are only 2.5 ophthalmologists per million people in SSA. 
+doc90	3	Training of ophthalmologists is critical. 
+doc90	4	We designed a systematic literature review protocol, searched MEDLINE Ovid and Embase OVID on 1 August 2019 and limited these searches to the year 2000 onwards. 
+doc90	5	We also searched Google Scholar and websites of ophthalmic institutions for additional information. 
+doc90	6	We include a total of 49 references in this review and used a narrative approach to synthesise the results. 
+doc90	7	There are 56 training institutions for ophthalmologists in eleven Anglophone, eleven Francophone, and two Lusophone SSA countries. 
+doc90	8	The median duration of ophthalmology training programmes was 4 years. 
+doc90	9	Most curricula have been regionally standardised. 
+doc90	10	National, regional and international collaborations are a key feature to ophthalmology training in more than half of ophthalmology training programmes. 
+doc90	11	There is a drive, although perhaps not always evidence-based, for sub-specialisation in the region. 
+doc90	12	Available published scientific data on ophthalmic medical and surgical training in SSA is sparse, especially for Francophone and Lusophone countries. 
+doc90	13	However, through a broad scoping review strategy it has been possible to obtain a valuable and detailed view of ophthalmology training in SSA. 
+doc90	14	Training of ophthalmologists is a complex and multi-faceted task. 
+doc90	15	There are challenges in appropriate selection, capacity, and funding of available training institutions. 
+doc90	16	Numerous learning outcomes demand curriculum, time, faculty, support, and appropriate assessment. 
+doc90	17	There are opportunities provided by modern training approaches. 
+doc90	18	Partnership is key.
+doc91	1	Osteosarcoma is the most common malignant tumors of bone. 
+doc91	2	Since 1970s, researchers had used chemotherapy drugs to treat osteosarcoma. 
+doc91	3	However, multidrug resistance is a major adverse reaction that affects the efficacy of chemotherapy drugs, leading to the reduced survival rate of osteosarcoma patients. 
+doc91	4	The Notch signaling pathway plays an important role in osteosarcoma proliferation, which affects tumor resistance by reducing intracellular drug accumulation, regulating epithelial-mesenchymal transition, dysregulating microRNA, disrupting the expression of apoptosis genes, and regulating tumor stem cells.
+doc92	1	To detect the relationship between CTGF in the bone marrow of MM patients and osteolytic lesion of myeloma, moreover, to investigate the clinical significance of CTGF in MM. 
+doc92	2	Fifity-four MM patients treated in our hospital from March 2019 to April 2020 were enrolled, and 28 healthy volunteers were selected as the control group. 
+doc92	3	The plasma in bone marrow of the patients was collected, and the ELISA was used to detect the level of CTGF in bone marrow plasma and the relationship between its and clinical characteristics were statistically analyzed. 
+doc92	4	The CTGF level of MM patients was significantly higher than those in the healthy control group (P<0.001); the CTGF level in male patients was higher than that in female patients (P=0.007); the CTGF level in MM patients with osteolytic lesions was significantly higher than patients without osteolytic lesions and controls (P=0.007, P=0.001). 
+doc92	5	The CTGF level in MM patients was positively correlated with the number of bone lesions (P<0.001, r=0.52). 
+doc92	6	CTGF levels in patients with ≥3 bone lesions were significantly higher than those with <3 bone lesions and without bone lesions (P=0.014, P=0.002). 
+doc92	7	ROC curve result showed that CTGF expression level shows a significant diagnostic value for MM bone disease (P<0.001). 
+doc92	8	The abnormally high expression of CTGF level in MM patients is related to the degree of myelomas osteolytic lesions and can reflect the progress of MM.
+doc93	1	The concentration of pollutants and pathogens in the air directly affects human health. 
+doc93	2	When the pollution source remains unchanged, effective ventilation determines air quality. 
+doc93	3	It is therefore critically needed to establish a quantitative determination index for effective ventilation, which can be used for real-time evaluation of air quality in specific areas, so as to guide residents to choose healthy outdoor activity places. 
+doc93	4	In this study, Reynolds average Navier-Stokes (RANS) method was used to establish urban air pollution simulation system by computational fluid dynamics (CFD) technology. 
+doc93	5	The correlations among wind speed, pollutant concentration, and pollutant diffusion efficiency were analyzed. 
+doc93	6	With real-time meteorological data, wind field simulation and air quality evaluation were carried out for different periods of urban square space. 
+doc93	7	The results showed that the critical wind speed value at pedestrian height (1.5 m) for the effective diffusion of pollutants was 1.0 m·s
+doc94	1	The research and development of chronic hepatitis B (CHB) therapeutic drugs has been undergoing rapid development in recent years in order to achieve the World Health Organization's goal of eliminating viral hepatitis as a major public health threat by 2030. 
+doc94	2	The focus of early stage clinical trials (including the first human trial) is the selection of subjects, study design, dose selection, administration method, dose escalation, monitoring, observation and reporting procedures for adverse events/reactions (tolerability evaluation), and criteria for subjects to continue and discontinue administration. 
+doc94	3	Therefore, quantitative pharmacology knowledge is required to analyze the relationship between in vivo drug exposure, efficacy and adverse reactions, and the inclusion of exploratory indicators such as HBV RNA, hepatitis B virus core-related antigen (HBcrAg), etc., to analyze the mechanism and target of innovative drugs and the efficacy of cccDNA in anti-hepatocytes. 
+doc94	4	On the other hand, Phase II-III clinical trials prioritize the optimal dose, efficacy and safety indicators to verify the efficacy and safety of new drugs in a wider range of subjects. 
+doc94	5	This paper refers to the relevant domestic and foreign literature, combined with the author's practical experience in early clinical research, and then briefly introduces the clinical issues that should be paid attention to in the design of clinical trials of CHB innovative drugs.
+doc95	1	In Uganda, one in five children presents mental health challenges, including disruptive behavior disorders (DBDs). 
+doc95	2	DBDs can persist through adulthood and result in negative outcomes. 
+doc95	3	Effective interventions for DBDs have been developed and tested in high-poverty communities in developed countries. 
+doc95	4	Yet, most African countries, such as Uganda, lack such interventions. 
+doc95	5	This paper describes the adaptation process of an evidence-based intervention of U.S. origin to optimize fit to context with intervention fidelity, as part of a randomized trial conducted with youth that exhibit behavioral challenges and their caregivers in 30 schools in Uganda. 
+doc95	6	The process involved: initial meetings with headteachers and teachers to introduce the study and the main concepts of the intervention; initial manual review focusing on 4Rs and 2Ss content by the Uganda team; engagement of community stakeholders for additional feedback on content and cultural relevance; final revision of the manual; and collection of children's drawings for the illustration of the manual. 
+doc95	7	This paper describes both similarities and differences between the original and adapted intervention content and methods of delivery. 
+doc95	8	The findings also highlight the importance of involving community stakeholders in the adaptation process.
+doc96	1	To explore the classification, diagnosis, and clinical treatment of Achilles tendinopathy. 
+doc96	2	The literature about Achilles tendinopathy at home and abroad was reviewed. 
+doc96	3	The research results of classification and terms, imaging diagnosis, and clinical treatment of Achilles tendinopathy were summarized. 
+doc96	4	The classification and name of Achilles tendinopathy are not completely unified, and the concept is vague, the cause of disease is not clear. 
+doc96	5	There are many treatment plans, but there is no effective evidence-based medicine research. 
+doc96	6	The diagnosis and treatment of Achilles tendinopathy is complicated. 
+doc96	7	According to the characteristics of Achilles tendon anatomy and etiology, the classification and definition of Achilles tendinopathy need to be further studied in order to guide clinical treatment more effectively and facilitate experience exchange and learning.
+doc97	1	Artificial intelligence (AI) is a kind of technology which is rapidly developed on the basis of computer technology. 
+doc97	2	AI makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks. 
+doc97	3	It has been applied in many fields of human society, and is more and more widely used in medical field. 
+doc97	4	The development and application of AI in stomatology will lead the future of stomatology to a certain extent. 
+doc97	5	It is very important for stomatology professionals to recognize, learn and master AI, to keep pace with the pace of the new era of medical treatment and to apply it in medical practice. 
+doc97	6	This paper introduces the application and progress of AI in stomatology clinic, research and teaching field, analyzes the existing and possible problems, and prospects the development of AI in the field of stomatology.
+doc98	1	Direct-acting antivirals (DAAs) play a critical role for the therapy of chronical hepatitis B. 
+doc98	2	DAAs can decrease the production of viral progeny of hepatitis B virus (HBV), breaking the viral dynamic equilibrium between: (1) virion production from hepatocytes and clearance from circulation; (2) replenishment and decay of covalently closed circular (ccc)DNA pool inside infected hepatocytes. 
+doc98	3	Nucleos(t)ide analogues can potently shift the first balance to undetectable viremia in the blood, but have limited or no effect on the second one, thus making it imperative to develop new agents targeting additional step(s) of HBV life cycle. 
+doc98	4	We herein briefly introduce the DAAs currently in development by classifying them as agents affecting the replenishment or the decay of cccDNA pool.
+doc99	1	To investigate the mechanisms of anti-apoptosis and immune evasion in drug-resistant leukemia cells mediated by STAT3, further to explore the possible mechanism of leukemia relapse caused by minimal residual. 
+doc99	2	Drug-resistance leukemia cell line was established by transfecting pcDNA3.1-STAT3 into K562 cells (K562/STAT3). 
+doc99	3	The expression of STAT3, BAX and NKG2D ligands (MICA and ULBP1) in K562/-cells, K562/STAT3 were detected by Western blot and/or RQ-PCR. 
+doc99	4	Cells apoptosis and the killing effect of NK cells on leukemia cells were detected by flow cytometry. 
+doc99	5	The expression of the total STAT3, STAT3 phosphorylation in K562/STAT3 was significantly increased, and P-gp mRNA expression was increased also significantly (P<0.005). 
+doc99	6	In K562/STAT3 cells, the expression of pro-apoptotic BAX (P=0.005) was significantly lower, and the number of apoptotic cells (P=0.002) induced by adriamycin was significantly decreased as compared with those in K562/- cells. 
+doc99	7	After K562/STAT3 cells were treated by STAT3 inhibitor (SH-4-54), the expression of BAX mRNA (P=0.017) was significantly higher and the number of apoptotic cells (P=0.005) was significantly increased. 
+doc99	8	The MICA and ULBP1 mRNA expression in K562/STAT3 cells was significantly lower than that in K562/- cells, and also for MICA and ULBP1 protein (MICA and ULPB1 mRNA: P<0.0001, MICA protein: P=0.001, ULPB1 protein: P=0.022). 
+doc99	9	After K562/STAT3 cells were treated with STAT3 inhibitor (SH-4-54), the expression of MICA mRNA and protein was increased (mRNA: P=0.001, protein: P=0.002), but ULBP1 mRNA and protein showed no significantly change (mRNA: P=0.137, protein: P=0.1905). 
+doc99	10	The cytotoxicity of NK cells to K562/STAT3 cells was susceptible as compared with K562/- (P=0.002), but the cytotoxicity of K562/STAT3 cells to NK cell could be recovered by STAT3 inhibitor (P=0.006). 
+doc99	11	STAT3 phosphorylation can inhibits cell apoptosis and promotes cell immune escape. 
+doc99	12	STAT3 inhibitors can promote the apoptosis of leukemia cells and increase their sensitivity to NK cells.
+doc100	1	This study aimed to elucidate the mechanism underlying the effect of parental attachment on post-traumatic growth (PTG) among adolescents. 
+doc100	2	Nine and a half years after the Wenchuan earthquake, 872 adolescents in China were assessed using self-reported questionnaires. 
+doc100	3	The results showed that parental attachment had a direct association with PTG, two significant one-step indirect associations with PTG (through justice beliefs and cognitive reappraisal), two significant two-step indirect associations (through feelings of safety via justice beliefs and justice beliefs via cognitive reappraisal), and one significant three-step indirect association (through feelings of safety via justice beliefs by cognitive reappraisal). 
+doc100	4	The results indicated that feelings of safety, justice beliefs, and cognitive reappraisal mediated the association between parental attachment and PTG. 
+doc100	5	These findings highlight the importance of a family perspective and may help clinical psychologists to improve adolescents' PTG by helping them to build positive parental attachments.
